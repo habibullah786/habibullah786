@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Md. Habibullah Ansari 👋</h1>
 
 <p align="center">
-  <b>Full Stack WordPress Developer | PHP | React | REST API | GraphQL</b><br/>
-  📍 Bangalore, India &nbsp;|&nbsp; 📧 md.habibullah786@gmail.com &nbsp;|&nbsp; 📱 +91-7979763944
+  <b>Full Stack WordPress Developer | PHP | Plugin Development | REST API | Custom Theme Development </b><br/>
+  📍 Bangalore, India &nbsp;|&nbsp; 📧 md.habibullah786@gmail.com &nbsp;|&nbsp; 
 </p>
 
 <p align="center">
