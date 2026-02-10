@@ -105,9 +105,6 @@ I'm a **Full Stack WordPress Developer** with **5+ years of experience** buildin
 | [The Ken Learning](https://learn.the-ken.com) | Learning & development portal |
 | [Exceed Robotics](https://exceedrobotics.com) | Robotics company website |
 | [World ESG Summit](https://worldesgsummit.com) | Global ESG conference platform |
-| [ConnectPay](https://connectpay.com) | Fintech / payment platform |
-| [Skygate Immigration](https://skygateimmigration.com) | Immigration consulting website |
-| [Gena HealthX](https://genahealthx.com) | Health-tech platform |
 | [ULTA CUBE](https://ultacube.com) | Technology company website |
 
 ---
